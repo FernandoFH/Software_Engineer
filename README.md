@@ -23,8 +23,8 @@ https://github.com/FernandoFH/SRE
 * Algorithms Specialization | Stanford University https://es.coursera.org/specializations/algorithms?
 https://github.com/FernandoFH/Algorithms_Specialization
 
-  * https://github.com/FernandoFH/Algorithms  [Souce](https://www.khanacademy.org/computing/computer-science/algorithms)
-  * https://github.com/FernandoFH/Data_Structures  [Souce](https://www.hackerrank.com/domains/data-structures)
+  * https://github.com/FernandoFH/Algorithms |  [Souce](https://www.khanacademy.org/computing/computer-science/algorithms)
+  * https://github.com/FernandoFH/Data_Structures |   [Souce](https://www.hackerrank.com/domains/data-structures)
   
  ----
  Especialización en Sistemas Embebidos
@@ -40,6 +40,7 @@ https://github.com/FernandoFH/Introduction_Satellite_Communications
 
 ----
 https://github.com/FernandoFH/Intro-ML-course
+https://github.com/FernandoFH/Curso-completo-de-Machine-Learning-Data-Science-en-Python
 https://github.com/FernandoFH/2018-MachineLearning-Lectures-ESA
 
 ### Programming
