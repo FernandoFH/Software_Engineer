@@ -1,5 +1,5 @@
-# Software Engineer Sel Taught
-RoapMap | Software Engineer Sel Taught
+# Software Engineer Self-Taught
+RoapMap | Software 
 
 |Date | Courses	|School	| Duration | 	Effort | 
 |---- | ------- |-------|--------- | ------- |
