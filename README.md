@@ -8,6 +8,13 @@ This is a curated list of free courses from reputable universities that satisfy 
 |---- | ------- |-------|--------- | ------- | ------ |------ | 
 |23/06/2020 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | Harvard | 12 Weeks | 3 H/W | 50% | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)
 
+https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with-python
+https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript
+
+----
+Certificado profesional de Data Engineering with Google Cloud
+https://www.coursera.org/professional-certificates/gcp-data-engineering?
+
 ----
 Open Source Software Development, Linux and Git Specialization
 https://www.coursera.org/specializations/oss-development-linux-git
@@ -36,6 +43,8 @@ https://github.com/FernandoFH/Machine-Learning-Trading-Specialization
 https://es.coursera.org/specializations/machine-learning-trading
 
 ----
+Introduction to Satellite Communications
+https://www.coursera.org/learn/satellite-communications
 https://github.com/FernandoFH/Introduction_Satellite_Communications
 
 ----
