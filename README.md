@@ -12,6 +12,11 @@ https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with
 https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript
 
 ----
+Software Design and Architecture Specialization
+https://www.coursera.org/specializations/software-design-architecture
+
+
+----
 Certificado profesional de Data Engineering with Google Cloud
 https://www.coursera.org/professional-certificates/gcp-data-engineering?
 
@@ -37,6 +42,14 @@ https://github.com/FernandoFH/Algorithms_Specialization
  Especialización en Sistemas Embebidos
  https://github.com/FernandoFH/Embedded.Systems.Playground
 
+
+----
+TensorFlow in Practice Specialization
+https://www.coursera.org/specializations/tensorflow-in-practice
+
+Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp
+
 ----
 Machine Learning for Trading
 https://github.com/FernandoFH/Machine-Learning-Trading-Specialization
@@ -46,6 +59,8 @@ https://es.coursera.org/specializations/machine-learning-trading
 Introduction to Satellite Communications
 https://www.coursera.org/learn/satellite-communications
 https://github.com/FernandoFH/Introduction_Satellite_Communications
+
+
 
 ----
 https://github.com/FernandoFH/Intro-ML-course
