@@ -30,40 +30,39 @@ Site Reliability Engineering
 https://github.com/FernandoFH/SRE
 
 ----
-* Algorithms Specialization | Stanford University https://es.coursera.org/specializations/algorithms?
-https://github.com/FernandoFH/Algorithms_Specialization
+* Algorithms Specialization | Stanford University https://es.coursera.org/specializations/algorithms  
+https://github.com/FernandoFH/Algorithms_Specialization  
 
   * https://github.com/FernandoFH/Algorithms |  [Souce](https://www.khanacademy.org/computing/computer-science/algorithms)
   * https://github.com/FernandoFH/Data_Structures |   [Souce](https://www.hackerrank.com/domains/data-structures)
   
  ----
- Especialización en Sistemas Embebidos
+ Especialización en Sistemas Embebidos  
  https://github.com/FernandoFH/Embedded.Systems.Playground
 
+----
+TensorFlow in Practice Specialization  
+https://www.coursera.org/specializations/tensorflow-in-practice  
+
+Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization  
+https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp  
 
 ----
-TensorFlow in Practice Specialization
-https://www.coursera.org/specializations/tensorflow-in-practice
-
-Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
-https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp
+Machine Learning for Trading  
+https://github.com/FernandoFH/Machine-Learning-Trading-Specialization  
+https://es.coursera.org/specializations/machine-learning-trading    
 
 ----
-Machine Learning for Trading
-https://github.com/FernandoFH/Machine-Learning-Trading-Specialization
-https://es.coursera.org/specializations/machine-learning-trading
-
-----
-Introduction to Satellite Communications
-https://www.coursera.org/learn/satellite-communications
-https://github.com/FernandoFH/Introduction_Satellite_Communications
+Introduction to Satellite Communications  
+https://www.coursera.org/learn/satellite-communications  
+https://github.com/FernandoFH/Introduction_Satellite_Communications  
 
 
 
 ----
-https://github.com/FernandoFH/Intro-ML-course
-https://github.com/FernandoFH/Curso-completo-de-Machine-Learning-Data-Science-en-Python
-https://github.com/FernandoFH/2018-MachineLearning-Lectures-ESA
+https://github.com/FernandoFH/Intro-ML-course  
+https://github.com/FernandoFH/Curso-completo-de-Machine-Learning-Data-Science-en-Python  
+https://github.com/FernandoFH/2018-MachineLearning-Lectures-ESA  
 
 ### Programming
 ### Systems
