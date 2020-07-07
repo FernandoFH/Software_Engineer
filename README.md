@@ -7,9 +7,9 @@ This is a curated list of free courses from reputable universities that satisfy 
 |Date | Courses	|School	| Duration | 	Effort | Status | Repo | 
 |---- | ------- |-------|--------- | ------- | ------ |------ | 
 |23/06/2020 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | Harvard | 12 Weeks | 3 H/W | 50% | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)
+| 07/2020 | [CS50's Introduction to artificial intelligence with python](https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with-python) | Harvard |  | H/W |  | [CS50 AI]()
+| 08/2020 | [CS50's Web Programming with Python and Javascript](https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript) | Harvard | | H/W | | [CS50]()
 
-https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with-python
-https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript
 
 ----
 Software Design and Architecture Specialization
