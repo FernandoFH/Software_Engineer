@@ -36,6 +36,9 @@ https://github.com/FernandoFH/Algorithms_Specialization
   * https://github.com/FernandoFH/Algorithms |  [Souce](https://www.khanacademy.org/computing/computer-science/algorithms)
   * https://github.com/FernandoFH/Data_Structures |   [Souce](https://www.hackerrank.com/domains/data-structures)
   
+  * Advanced Algorithmics and Graph Theory with Python
+     https://courses.edx.org/courses/course-v1:IMTx+NET04x+3T2018/course/
+  
  ----
  Especialización en Sistemas Embebidos  
  https://github.com/FernandoFH/Embedded.Systems.Playground
@@ -56,8 +59,6 @@ https://es.coursera.org/specializations/machine-learning-trading
 Introduction to Satellite Communications  
 https://www.coursera.org/learn/satellite-communications  
 https://github.com/FernandoFH/Introduction_Satellite_Communications  
-
-
 
 ----
 https://github.com/FernandoFH/Intro-ML-course  
