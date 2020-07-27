@@ -6,9 +6,18 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 |Date | Courses	|School	| Duration | 	Effort | Status | Repo | 
 |---- | ------- |-------|--------- | ------- | ------ |------ | 
-|23/06/2020 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | Harvard | 12 Weeks | 3 H/W | 50% | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)
+|23/06/2020 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | Harvard | 12 W | 3 H/W | 50% | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)
 | 07/2020 | [CS50's Introduction to artificial intelligence with python](https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with-python) | Harvard |  | H/W |  | [CS50 AI]()
 | 08/2020 | [CS50's Web Programming with Python and Javascript](https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript) | Harvard | | H/W | | [CS50 Web]()
+----
+Introduction to Operating Systems  
+https://www.udacity.com/course/introduction-to-operating-systems--ud923
+
+Open Source Software Development, Linux and Git Specialization  
+https://www.coursera.org/specializations/oss-development-linux-git
+
+Site Reliability Engineering  
+https://github.com/FernandoFH/SRE
 
 ----
 Software Design and Architecture Specialization  
@@ -19,17 +28,7 @@ Certificado profesional de Data Engineering with Google Cloud
 https://www.coursera.org/professional-certificates/gcp-data-engineering
 
 ----
-Open Source Software Development, Linux and Git Specialization  
-https://www.coursera.org/specializations/oss-development-linux-git
 
-----
-Introduction to Operating Systems  
-https://www.udacity.com/course/introduction-to-operating-systems--ud923
-
-Site Reliability Engineering  
-https://github.com/FernandoFH/SRE
-
-----
 * Algorithms Specialization | Stanford University https://es.coursera.org/specializations/algorithms  
 https://github.com/FernandoFH/Algorithms_Specialization  
 
@@ -38,8 +37,8 @@ https://github.com/FernandoFH/Algorithms_Specialization
   
   * Advanced Algorithmics and Graph Theory with Python
      https://courses.edx.org/courses/course-v1:IMTx+NET04x+3T2018/course/
-  
- ----
+
+----
  Especialización en Sistemas Embebidos  
  https://github.com/FernandoFH/Embedded.Systems.Playground
 
