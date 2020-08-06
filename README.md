@@ -13,9 +13,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 Introduction to Operating Systems  
 https://www.udacity.com/course/introduction-to-operating-systems--ud923
 
-Open Source Software Development, Linux and Git Specialization  
-https://www.coursera.org/specializations/oss-development-linux-git
-
 Site Reliability Engineering  
 https://github.com/FernandoFH/SRE
 
