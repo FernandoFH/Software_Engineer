@@ -6,7 +6,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 |Date | Courses	|School	| Duration |  Status | Repo | 
 |---- | ------- |-------|--------- |  ------ |------ | 
-| 28/03/21 | [Introduction to Linux](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+1T2020/home) | Linux Foundation | 10 W | | 
+| 28/03/21 | [Introduction to Linux](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS101x+1T2020/home) | Linux Foundation | 10 W | In Proces | |
 
 
 
