@@ -9,6 +9,30 @@ This is a curated list of free courses from reputable universities that satisfy 
 | 17/06/21 | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation |  | In Process | |
 | 17/06/21 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | | In Process | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)|
 
+ - Python for Cybersecurity Specialization
+    https://www.coursera.org/specializations/pythonforcybersecurity
+     Infosec
+
+ - Computer Communications Specialization
+      https://www.coursera.org/specializations/computer-communications
+      University of Colorado
+
+ - Blockchain Specialization
+      https://www.coursera.org/specializations/blockchain?
+      University at Buffalo
+      
+ - Computer Architecture
+      https://www.coursera.org/learn/comparch
+      Princeton University
+
+ - C# Programming for Unity Game Development Specialization
+https://www.coursera.org/specializations/programming-unity-game-development
+  https://www.coursera.org/specializations/unity-certified-programmer
+
+ - Programming with Google Go
+    https://www.coursera.org/specializations/google-golang
+
+
 ### Pendient
 |Area |Date | Courses	|School	| Duration |  Status | Repo | 
 |---- |---- | ------- |-------|--------- |  ------ |------ | 
@@ -18,7 +42,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 |---- |     |  [Data-Driven Decision Making (DDDM)](https://www.coursera.org/specializations/data-driven-decision-making)|  |   | |
 |Software |     |  [Test-Driven Development ](https://www.coursera.org/specializations/test-driven-development)|  |   | |
 |Astro Tech |  |  [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace)|  |   | |
-
 
 
 |Area |Courses | 	
