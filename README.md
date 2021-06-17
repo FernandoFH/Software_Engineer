@@ -9,3 +9,15 @@ This is a curated list of free courses from reputable universities that satisfy 
 | 17/06/21 | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation |  | In Process | |
 | 17/06/21 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | | In Process | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)|
 
+### Pendient
+|Date | Courses	|School	| Duration |  Status | Repo | 
+|---- | ------- |-------|--------- |  ------ |------ | 
+|  | [Real-Time Embedded Systems Specialization](https://www.coursera.org/specializations/real-time-embedded-systems) | University of Colorado|  |   | |
+
+
+|Courses | 	
+|---- | 
+| [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security)  | 
+
+
+
