@@ -10,21 +10,27 @@ This is a curated list of free courses from reputable universities that satisfy 
 | 17/06/21 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | | In Process | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)|
 
 ### Pendient
-|Date | Courses	|School	| Duration |  Status | Repo | 
-|---- | ------- |-------|--------- |  ------ |------ | 
-|  | [Real-Time Embedded Systems Specialization](https://www.coursera.org/specializations/real-time-embedded-systems) | University of Colorado|  |   | |
+|Area |Date | Courses	|School	| Duration |  Status | Repo | 
+|---- |---- | ------- |-------|--------- |  ------ |------ | 
+|Embedded Dev|     | [Real-Time Embedded Systems](https://www.coursera.org/specializations/real-time-embedded-systems) | University of Colorado|  |   | |
+|---- |     | [Real-World Product Management](https://www.coursera.org/specializations/real-world-product-management) | Amazon |  |   | |
+|Astro Tech |     | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-contro) | University of Colorado|  |   | |
+|---- |     |  [Data-Driven Decision Making (DDDM)](https://www.coursera.org/specializations/data-driven-decision-making)|  |   | |
+|Software |     |  [Test-Driven Development ](https://www.coursera.org/specializations/test-driven-development)|  |   | |
+|Astro Tech |  |  [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace)|  |   | |
+
 
 
 |Area |Courses | 	
 |---- | ---- | 
 | Embedded Dev | [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security)  | 
 
-
 |Areas |
 |---- |
+[Embedded Dev](https://github.com/FernandoFH/Embedded.Systems.Playground)
 [Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
 [TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
 [Ingenieria Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
-[Machine Learning && Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
+[Machine Learning & Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
 
 
