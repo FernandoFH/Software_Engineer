@@ -22,6 +22,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 |Astro Tech |  |  [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace)|  |   | |
 |Software |     | [Python for Cybersecurity Specialization](https://www.coursera.org/specializations/pythonforcybersecurity) | Infosec|  |   | |
 |Software |     | [Computer Communications Specialization](https://www.coursera.org/specializations/computer-communications) | University of Colorado|  |   | |
+|Software |     | [Introduction to TCP/IP](https://www.coursera.org/learn/tcpip) | Yonsei University|  |   | |
 |Software |     | [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) | University at Buffalo|  |   | | 
 |Software |     | [Computer Architecture](https://www.coursera.org/learn/comparch) | Princeton University|  |   | |
 |Game Dev |     | [C# Programming for Unity Game Development](https://www.coursera.org/specializations/programming-unity-game-development) | University of Colorado|  |   | |
