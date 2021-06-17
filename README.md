@@ -15,9 +15,16 @@ This is a curated list of free courses from reputable universities that satisfy 
 |  | [Real-Time Embedded Systems Specialization](https://www.coursera.org/specializations/real-time-embedded-systems) | University of Colorado|  |   | |
 
 
-|Courses | 	
-|---- | 
-| [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security)  | 
+|Area |Courses | 	
+|---- | ---- | 
+| Embedded Dev | [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security)  | 
 
+
+|Areas |
+|---- |
+[Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
+[TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
+[Ingenieria Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
+[Machine Learning && Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
 
 
