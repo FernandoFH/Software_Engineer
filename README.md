@@ -13,6 +13,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 ### Pendient
 |Area |Date | Courses	|School	| Duration |  Status | Repo | 
 |---- |---- | ------- |-------|--------- |  ------ |------ | 
+|Embedded Dev|     | [FPGA Design for Embedded Systems](https://www.coursera.org/specializations/fpga-design) | University of Colorado|  |   | |
 |Embedded Dev|     | [Real-Time Embedded Systems](https://www.coursera.org/specializations/real-time-embedded-systems) | University of Colorado|  |   | |
 |---- |     | [Real-World Product Management](https://www.coursera.org/specializations/real-world-product-management) | Amazon |  |   | |
 |Astro Tech |     | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-contro) | University of Colorado|  |   | |
