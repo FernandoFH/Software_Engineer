@@ -19,7 +19,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 |Astro Tech |     | [Spacecraft Dynamics and Control](https://www.coursera.org/specializations/spacecraft-dynamics-contro) | University of Colorado|  |   | |
 |     |     |  [Data-Driven Decision Making (DDDM)](https://www.coursera.org/specializations/data-driven-decision-making)|  |   | |
 |Software |     |  [Test-Driven Development ](https://www.coursera.org/specializations/test-driven-development)|  |   | |
-|Astro Tech |  |  [Digitalisation in Aeronautics and Space](https://www.coursera.org/specializations/aerospace)|  |   | |
 |Software |     | [Python for Cybersecurity Specialization](https://www.coursera.org/specializations/pythonforcybersecurity) | Infosec|  |   | |
 |Software |     | [Computer Communications Specialization](https://www.coursera.org/specializations/computer-communications) | University of Colorado|  |   | |
 |Software |     | [Introduction to TCP/IP](https://www.coursera.org/learn/tcpip) | Yonsei University|  |   | |
