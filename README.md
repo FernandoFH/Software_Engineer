@@ -19,6 +19,9 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 ### CS50 2020 || [Video](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 
+Software Design and Architecture 
+https://www.coursera.org/specializations/software-design-architecture
+
 
 ### Pendient
 |Area |Date | Courses	|School	| Duration |  Status | Repo | 
