@@ -8,8 +8,8 @@ This is a curated list of free courses from reputable universities that satisfy 
 |---- | ------- |-------|--------- |  ------ |------ | 
 |   | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation |  | | |
 |   | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | |  | [CS50](./CS50)|
-|   | [Computer Architecture](https://www.coursera.org/learn/comparch)    |  | Princeton University|  |   | |
-|   | [Clean Code  - Uncle Bob ](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)  |  | Software Programming | | |[Clea nCode](./CleanCode)  |
+|   | [Computer Architecture](https://www.coursera.org/learn/comparch)    | Princeton University | |  |   | |
+|   | [Clean Code  - Uncle Bob ](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)  | Software Programming |  | | |[Clean Code](./CleanCode)|
 
 - Software Design and Architecture 
     - https://www.coursera.org/specializations/software-design-architecture
