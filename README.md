@@ -22,6 +22,8 @@ This is a curated list of free courses from reputable universities that satisfy 
 Software Design and Architecture 
 https://www.coursera.org/specializations/software-design-architecture
 
+Programa especializado: Functional Programming in Scala
+https://www.coursera.org/specializations/scala
 
 ### Pendient
 |Area |Date | Courses	|School	| Duration |  Status | Repo | 
