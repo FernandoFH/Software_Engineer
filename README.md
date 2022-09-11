@@ -17,6 +17,9 @@ This is a curated list of free courses from reputable universities that satisfy 
 | Clean Code - Uncle Bob   |   [ Software Programming](./Clean_Code/README.md) | [Video](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k) | |
 
 
+### CS50 2020 || [Video](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+
+
 ### Pendient
 |Area |Date | Courses	|School	| Duration |  Status | Repo | 
 |---- |---- | ------- |-------|--------- |  ------ |------ | 
