@@ -12,7 +12,10 @@ This is a curated list of free courses from reputable universities that satisfy 
 |   | [Clean Code  - Uncle Bob ](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)  |  | Software Programming | | |[Clea nCode](./CleanCode)  |
 
 - Software Design and Architecture 
-- https://www.coursera.org/specializations/software-design-architecture
+    - https://www.coursera.org/specializations/software-design-architecture
+
+- Guide to linux kernel development
+    - https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information 
 
 
 ### Pendient
