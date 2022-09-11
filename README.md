@@ -10,8 +10,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 |   | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | |  | [CS50](./CS50)|
 |   | [Computer Architecture](https://www.coursera.org/learn/comparch)    |  | Princeton University|  |   | |
 
-
-
 | Computer Science Fundamentals   | [Harvard CS50](./CS50/README.md) | [Video](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) | |
 
 | Clean Code - Uncle Bob   |   [ Software Programming](./Clean_Code/README.md) | [Video](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k) | |
