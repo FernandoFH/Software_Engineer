@@ -6,8 +6,15 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 |Date | Courses	|School	| Duration |  Status | Repo | 
 |---- | ------- |-------|--------- |  ------ |------ | 
-| 17/06/21 | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation |  | In Process | |
-| 17/06/21 | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | | In Process | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)|
+|   | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation |  | In Process | |
+|   | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) | HarvardX | | In Process | [CS50](https://github.com/FernandoFH/CS50_Introduction-to-Computer-Science)|
+|Software |     | [Computer Architecture](https://www.coursera.org/learn/comparch) | Princeton University|  |   | |
+
+
+
+| Computer Science Fundamentals   | [Harvard CS50](./CS50/README.md) | [Video](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8) | |
+
+| Clean Code - Uncle Bob   |   [ Software Programming](./Clean_Code/README.md) | [Video](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k) | |
 
 
 ### Pendient
@@ -23,7 +30,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 |Software |     | [Computer Communications Specialization](https://www.coursera.org/specializations/computer-communications) | University of Colorado|  |   | |
 |Software |     | [Introduction to TCP/IP](https://www.coursera.org/learn/tcpip) | Yonsei University|  |   | |
 |Software |     | [Blockchain Specialization](https://www.coursera.org/specializations/blockchain) | University at Buffalo|  |   | | 
-|Software |     | [Computer Architecture](https://www.coursera.org/learn/comparch) | Princeton University|  |   | |
 |Game Dev |     | [C# Programming for Unity Game Development](https://www.coursera.org/specializations/programming-unity-game-development) | University of Colorado|  |   | |
 |Game Dev |     | [Unity Certified Programmer](https://www.coursera.org/specializations/unity-certified-programmer) |  |  |   | |
 |SRE  |     | [Programming with Google Go](https://www.coursera.org/specializations/google-golang) |  |  |   | |
