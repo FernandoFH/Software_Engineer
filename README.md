@@ -35,6 +35,8 @@ This is a curated list of free courses from reputable universities that satisfy 
 |Game Dev |     | [Unity Certified Programmer](https://www.coursera.org/specializations/unity-certified-programmer) |  |  |   | |
 |SRE  |     | [Programming with Google Go](https://www.coursera.org/specializations/google-golang) |  |  |   | |
 
+- [Scala](https://www.coursera.org/specializations/scala)
+
 |Area |Courses | 	
 |---- | ---- | 
 | Embedded Dev | [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security)  | 
