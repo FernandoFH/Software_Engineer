@@ -48,3 +48,54 @@ This is a curated list of free courses from reputable universities that satisfy 
 [TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
 [Ingenieria Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
 [Machine Learning & Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
+
+
+- C++
+
+https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+
+- Relational database (RDBMS)
+
+https://www.youtube.com/playlist?list=PLNITTkCQVxeXryTQvY0JBWTyN9ynxxPH8
+
+- Stanford CS109 Probability for Computer Scientists
+
+https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
+
+### MIT. 
+
+- Introduction To Computer Science And Programming In Python
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+
+- MIT 6.046J Design and Analysis of Algorithms, Spring 2015
+  
+https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+
+- MIT 6.006 Introduction to Algorithms, Spring 2020
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+- MIT 18.404J Theory of Computation, Fall 2020
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+
+- MIT 16.842 Fundamentals of Systems Engineering, Fall 2015
+  
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx
+
+- MIT 6.004 Computation Structures, Spring 2017
+  
+https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
+
+- MIT 6.172 Performance Engineering of Software Systems, Fall 2018
+  
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+
+- MIT 6.824 Distributed Systems (Spring 2020)
+  
+https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+
+- MIT 15.S12 Blockchain and Money, Fall 2018
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
