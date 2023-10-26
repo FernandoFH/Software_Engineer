@@ -64,17 +64,17 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
 
 ### MIT. 
 
-- Introduction To Computer Science And Programming In Python
+- MIT 6.0001 Introduction To Computer Science And Programming In Python
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
-
-- MIT 6.046J Design and Analysis of Algorithms, Spring 2015
-  
-https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 - MIT 6.006 Introduction to Algorithms, Spring 2020
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+- MIT 6.046J Design and Analysis of Algorithms, Spring 2015
+  
+https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 - MIT 18.404J Theory of Computation, Fall 2020
 
