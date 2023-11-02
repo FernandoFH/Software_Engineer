@@ -1,5 +1,11 @@
 # Software Engineer Self-Taught
 
+ - Data Structures & Algorithms
+ - Operating Systems
+ - Computer Networks
+ - Database Management Systems 
+ - System Design
+
 This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 ### Computer Science
