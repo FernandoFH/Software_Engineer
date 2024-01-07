@@ -1,6 +1,6 @@
-### Patrónes de Diseño
+# Patrónes de Diseño
 
-## Patron State
+### Patron State
   
 Permite que un objeto cambie su comportamineto cuando su estado interno cambia. 
 
