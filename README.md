@@ -37,6 +37,7 @@ https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 
 - Stanford EE274: Data Compression, Theory and Applications
+  - [Stanford EE274](https://stanforddatacompressionclass.github.io/notes/contents.html)
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
