@@ -31,6 +31,7 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
 - MIT 6.824 Distributed Systems (Spring 2020)
   
 https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+https://pdos.csail.mit.edu/6.824/schedule.html
 
 - MIT 15.S12 Blockchain and Money, Fall 2018
 
