@@ -1,22 +1,22 @@
 ### MIT. 
 
 - MIT 6.100L Introduction to CS and Programming using Python
-- https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/
-- https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB
+  - https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB
 
 - MIT 6.006 Introduction to Algorithms, Spring 2020
-- https://ocw.mit.edu/6-006S20
-- https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+  - https://ocw.mit.edu/6-006S20
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
 
 - MIT 6.851 Advanced Data Structures, Spring 2012
-- http://ocw.mit.edu/6-851S12
-- https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+  - http://ocw.mit.edu/6-851S12
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 
 - MIT 6.828: Operating System Engineering
-- https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
+  - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
 
 - MIT 6.046J Design and Analysis of Algorithms, Spring 2015
-- https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 - MIT 18.404J Theory of Computation, Fall 2020
 
