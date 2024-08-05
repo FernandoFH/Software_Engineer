@@ -1,5 +1,6 @@
 ### MIT
 
+- https://github.com/FernandoFH/every-programmer-should-know
 - [ ] https://github.com/FernandoFH/software-engineer-be-roadmap
 - [ ] MIT 6.100L Introduction to CS and Programming using Python
 
