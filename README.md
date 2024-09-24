@@ -51,6 +51,11 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
+- Stanford CS149 I Parallel Computing
+- https://gfxcourses.stanford.edu/cs149/fall23/
+- https://www.youtube.com/playlist?list=PL0gulkXFfOwzRf1wkeg4frMRe92q4p3Y5
+
+
 # Software Engineer Self-Taught
 
  - Data Structures & Algorithms
