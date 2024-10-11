@@ -55,13 +55,11 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 - https://gfxcourses.stanford.edu/cs149/fall23/
 - https://www.youtube.com/playlist?list=PL0gulkXFfOwzRf1wkeg4frMRe92q4p3Y5
 
-- MIT 18.086 Mathematical Methods for Engineers II, Spring '06
-  - https://www.youtube.com/playlist?list=PL3A13781649466805
-
-
 - Mathematical Methods for Engineers I (MIT)
   - https://www.youtube.com/playlist?list=PL5BB4AE9361F45F9E
 
+- MIT 18.086 Mathematical Methods for Engineers II, Spring '06
+  - https://www.youtube.com/playlist?list=PL3A13781649466805
 
 # Software Engineer Self-Taught
 
