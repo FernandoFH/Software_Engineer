@@ -11,6 +11,9 @@
   - https://ocw.mit.edu/6-006S20
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
 
+- Advanced Algorithms (COMPSCI 224)
+  - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+
 - MIT 6.851 Advanced Data Structures, Spring 2012
   - http://ocw.mit.edu/6-851S12
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
@@ -19,6 +22,7 @@
   - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
 
 - MIT 6.046J Design and Analysis of Algorithms, Spring 2015
+  - https://people.seas.harvard.edu/~cs224/fall14/index.html 
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 - MIT 18.404J Theory of Computation, Fall 2020
