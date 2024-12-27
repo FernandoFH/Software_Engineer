@@ -1,5 +1,7 @@
 # Software Engineer Self-Taught
 
+This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+
 - [ ] [Data Structures & Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
 
 - [ ] MIT 6.100L Introduction to CS and Programming using Python
@@ -7,10 +9,20 @@
 - [Contenido](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 - [Note](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python_Fall_2022/README.md)
 
+- Operating Systems
+- Computer Networks
+- Database Management Systems
+- System Design
+
 ---
 
 - https://github.com/FernandoFH/every-programmer-should-know
 - [ ] https://github.com/FernandoFH/software-engineer-be-roadmap
+
+- MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016
+
+  - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+  - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/
 
 - MIT 6.006 Introduction to Algorithms, Spring 2020
 
@@ -60,8 +72,15 @@ https://pdos.csail.mit.edu/6.824/schedule.html
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 
-- Stanford EE274: Data Compression, Theory and Applications
-  - [Stanford EE274](https://stanforddatacompressionclass.github.io/notes/contents.html)
+- MIT 18.S096 | Fall 2015 | Topics in Mathematics of Data Science
+
+https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/pages/lecture-notes/
+
+https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
+
+- [Stanford EE274](https://stanforddatacompressionclass.github.io/notes/contents.html)
+
+Stanford EE274: Data Compression, Theory and Applications
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
@@ -75,16 +94,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
 - MIT 18.086 Mathematical Methods for Engineers II, Spring '06
   - https://www.youtube.com/playlist?list=PL3A13781649466805
-
-# Software Engineer Self-Taught
-
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- System Design
-
-This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 ### Computer Science
 
@@ -145,3 +154,7 @@ https://www.youtube.com/playlist?list=PLNITTkCQVxeXryTQvY0JBWTyN9ynxxPH8
 - Stanford CS109 Probability for Computer Scientists
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
+
+- Become a Six-Figure C++ Engineer
+- Become a Six-Figure Python Engineer
+- Backend Python - Become a Backend Engineer
