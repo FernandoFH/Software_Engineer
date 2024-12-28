@@ -4,10 +4,9 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [Data Structures & Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
 
-- [ ] MIT 6.100L Introduction to CS and Programming using Python
-- [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
-- [Contenido](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
-- [Note](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python_Fall_2022/README.md)
+- [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
+
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
 
 - Operating Systems
 - Computer Networks
@@ -23,11 +22,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 
   - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
   - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/
-
-- MIT 6.006 Introduction to Algorithms, Spring 2020
-
-  - https://ocw.mit.edu/6-006S20
-  - https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
 
 - Advanced Algorithms (COMPSCI 224)
 
@@ -77,6 +71,14 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/pages/lecture-notes/
 
 https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
+
+- MIT 18.04 | Spring 2018 | Complex Variables with Applications
+
+https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/lecture-notes/
+
+https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/213a/course/course.pdf
+
+https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2023/MAT330_Lecture_Notes.pdf
 
 - [Stanford EE274](https://stanforddatacompressionclass.github.io/notes/contents.html)
 
