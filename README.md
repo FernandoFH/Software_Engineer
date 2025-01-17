@@ -97,9 +97,15 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 - MIT 18.086 Mathematical Methods for Engineers II, Spring '06
   - https://www.youtube.com/playlist?list=PL3A13781649466805
 
+
+- CS364A: Algorithmic Game Theory (Fall 2013)
+  - http://timroughgarden.org/f13/f13.html
+  - https://timroughgarden.org/f13/f13.pdf
+  - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
+
 ### Computer Science
 
-| Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           |
+| Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------- | ------ | ---------------------------------------------- | --- |
 |      | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation     |          |        |                                                |
 |      | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science)                      | HarvardX             |          |        | [CS50](./CS50)                                 |
