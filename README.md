@@ -109,6 +109,9 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
   - Practical ARM Assembly Tutorial Series
   - https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg
+  - x86_64 Linux Assembly
+  - https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
+  - https://www.youtube.com/watch?v=gfmRrPjnEw4
 
 
 ### Computer Science
