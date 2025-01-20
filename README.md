@@ -103,6 +103,14 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://timroughgarden.org/f13/f13.pdf
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
+- Introduction to Assembly Programming
+  - Learning ARM assembly
+  - https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
+  - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
+  - Practical ARM Assembly Tutorial Series
+  - https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg
+
+
 ### Computer Science
 
 | Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
