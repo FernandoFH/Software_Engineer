@@ -104,12 +104,12 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
 - Introduction to Assembly Programming
-  - Learning ARM assembly
+  - ### Learning ARM assembly
   - https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
   - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
-  - Practical ARM Assembly Tutorial Series
+  - ### Practical ARM Assembly Tutorial Series
   - https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg
-  - x86_64 Linux Assembly
+  - ### x86_64 Linux Assembly
   - https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
   - https://www.youtube.com/watch?v=gfmRrPjnEw4
 
