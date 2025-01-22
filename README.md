@@ -113,6 +113,12 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
   - https://www.youtube.com/watch?v=gfmRrPjnEw4
 
+- EE282: Computer Systems Architecture
+  - https://web.stanford.edu/class/ee282/
+
+- CS349d: Cloud Computing Technology
+  - https://web.stanford.edu/class/cs349d/
+
 
 ### Computer Science
 
