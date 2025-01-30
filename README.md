@@ -10,7 +10,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] Operating Systems
 - [ ] Computer Networks
-- [ ] Database Management Systems
+- [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
 - [ ] System Design
 
 ---
@@ -126,6 +126,31 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
 - CS349d: Cloud Computing Technology
   - https://web.stanford.edu/class/cs349d/
+
+- 6.042J | Fall 2010 | Undergraduate
+  - Mathematics for Computer Science
+  - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+
+- 6.1810 | Fall 2023 | Undergraduate
+  - Operating System Engineering
+  - https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
+
+- 6.S096 | January IAP 2014 | Undergraduate
+  - Effective Programming in C and C++
+  - https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+
+- 14.15J | Spring 2018 | Undergraduate
+  - Networks
+  - https://ocw.mit.edu/courses/14-15j-networks-spring-2018/
+
+- 6.875 | Spring 2005 | Graduate
+  - Cryptography and Cryptanalysis
+  - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/
+
+- 6.045J | Spring 2011 | Undergraduate
+  - Automata, Computability, and Complexity
+  - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
+
 
 
 ### Computer Science
