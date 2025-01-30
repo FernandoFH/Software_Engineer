@@ -8,12 +8,20 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
 
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- System Design
+- [ ] Operating Systems
+- [ ] Computer Networks
+- [ ] Database Management Systems
+- [ ] System Design
 
 ---
+- API design
+- API Security
+- CI/CD
+- DS
+- Docker/ Kubernetes 
+- Caching
+- Messaging
+--- 
 
 - https://github.com/FernandoFH/every-programmer-should-know
 - [ ] https://github.com/FernandoFH/software-engineer-be-roadmap
