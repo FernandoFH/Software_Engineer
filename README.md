@@ -6,7 +6,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
-- [ ] Operating Systems
+- [ ] [Operating Systems](./Operating_Systems/README.md)  
 - [ ] Computer Networks
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
 - [ ] System Design
