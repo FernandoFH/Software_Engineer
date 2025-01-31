@@ -6,8 +6,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
-- [MIT 6.006 Introduction to Algorithms, Spring 2020](./MIT_OpenCourse/MIT-6.006_Introduction_Algorithms/README.md)
-
 - [ ] Operating Systems
 - [ ] Computer Networks
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
@@ -17,10 +15,11 @@ This is a curated list of free courses from reputable universities that satisfy 
 - API design
 - API Security
 - CI/CD
-- DS
 - Docker/ Kubernetes 
 - Caching
 - Messaging
+--- 
+
 --- 
 
 - https://github.com/FernandoFH/every-programmer-should-know
@@ -31,10 +30,6 @@ This is a curated list of free courses from reputable universities that satisfy 
   - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
   - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/
 
-- Advanced Algorithms (COMPSCI 224)
-
-  - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
-
 - MIT 6.851 Advanced Data Structures, Spring 2012
 
   - http://ocw.mit.edu/6-851S12
@@ -43,11 +38,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 - MIT 6.828: Operating System Engineering
 
   - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
-
-- MIT 6.046J Design and Analysis of Algorithms, Spring 2015
-
-  - https://people.seas.harvard.edu/~cs224/fall14/index.html
-  - https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
 - MIT 18.404J Theory of Computation, Fall 2020
 
@@ -151,8 +141,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - Automata, Computability, and Complexity
   - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
 
-
-
 ### Computer Science
 
 | Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
@@ -196,7 +184,6 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 | ----- |
 
 [Embedded Dev](https://github.com/FernandoFH/Embedded.Systems.Playground)
-[Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
 [TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
 [Ingenieria Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
 [Machine Learning & Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
