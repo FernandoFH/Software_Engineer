@@ -156,6 +156,10 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - Automata, Computability, and Complexity
   - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
 
+- 16.355J | Fall 2005 | Graduate
+  - Software Engineering Concepts
+  - https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/
+
 ### Computer Science
 
 | Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
