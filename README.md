@@ -160,6 +160,8 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - Software Engineering Concepts
   - https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/
 
+Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
+
 ### Computer Science
 
 | Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
