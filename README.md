@@ -9,19 +9,25 @@ This is a curated list of free courses from reputable universities that satisfy 
 - https://github.com/FernandoFH/every-programmer-should-know
 - [ ] https://github.com/FernandoFH/software-engineer-be-roadmap
 
-- [ ] [Operating Systems](./Operating_Systems/README.md)  
+- [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] Computer Networks
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
 - [ ] System Design
 
+- [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
+- [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
+
 ---
+
 - API design
 - API Security
 - CI/CD
-- Docker/ Kubernetes 
+- Docker/ Kubernetes
 - Caching
 - Messaging
---- 
+
+---
+
 FREE APIs for Your Projects🔥
 
 🌦️OpenWeatherMap API
@@ -38,7 +44,8 @@ FREE APIs for Your Projects🔥
 🦠VirusTotal API
 🎮Pokemon (pokeapi) API
 🔭NASA API
---- 
+
+---
 
 - MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016
 
@@ -108,15 +115,17 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://www.youtube.com/playlist?list=PL5BB4AE9361F45F9E
 
 - MIT 18.086 Mathematical Methods for Engineers II, Spring '06
+
   - https://www.youtube.com/playlist?list=PL3A13781649466805
 
-
 - CS364A: Algorithmic Game Theory (Fall 2013)
+
   - http://timroughgarden.org/f13/f13.html
   - https://timroughgarden.org/f13/f13.pdf
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
 - Introduction to Assembly Programming
+
   - ### Learning ARM assembly
   - https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
   - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
@@ -127,32 +136,40 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://www.youtube.com/watch?v=gfmRrPjnEw4
 
 - EE282: Computer Systems Architecture
+
   - https://web.stanford.edu/class/ee282/
 
 - CS349d: Cloud Computing Technology
+
   - https://web.stanford.edu/class/cs349d/
 
 - 6.042J | Fall 2010 | Undergraduate
+
   - Mathematics for Computer Science
   - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
 - 6.1810 | Fall 2023 | Undergraduate
+
   - Operating System Engineering
   - https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
 
 - 6.S096 | January IAP 2014 | Undergraduate
+
   - Effective Programming in C and C++
   - https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
 
 - 14.15J | Spring 2018 | Undergraduate
+
   - Networks
   - https://ocw.mit.edu/courses/14-15j-networks-spring-2018/
 
 - 6.875 | Spring 2005 | Graduate
+
   - Cryptography and Cryptanalysis
   - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/
 
 - 6.045J | Spring 2011 | Undergraduate
+
   - Automata, Computability, and Complexity
   - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
 
@@ -164,7 +181,7 @@ Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNz
 
 ### Computer Science
 
-| Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           | |
+| Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           |     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------- | ------ | ---------------------------------------------- | --- |
 |      | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation     |          |        |                                                |
 |      | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science)                      | HarvardX             |          |        | [CS50](./CS50)                                 |
