@@ -179,6 +179,11 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 
 Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
 
+- 18.085 | Fall 2008 | Graduate
+  - Computational Science and Engineering I
+  - https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/
+  - https://www.youtube.com/playlist?list=PLF706B428FB7BD52C
+
 ### Computer Science
 
 | Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           |     |
