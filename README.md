@@ -13,9 +13,11 @@ This is a curated list of free courses from reputable universities that satisfy 
 - [ ] Computer Networks
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
 - [ ] System Design
+- [ ] [Quantum Computing](https://github.com/FernandoFH/Quantum_Computing/README.md)
 
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
 - [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
+
 
 ---
 
