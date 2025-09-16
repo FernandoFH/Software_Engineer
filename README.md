@@ -4,7 +4,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [Data Structures & Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
 
-- [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
+- [ ] [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
 - [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
