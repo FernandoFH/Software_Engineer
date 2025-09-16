@@ -1,7 +1,3 @@
-# Intro al Desarrollo de Software
+# [Intro al Desarrollo de Software](./IntroSoftware.md)
 
-- [Clase 01](./IntroSoftware.md)
-
-# Ingeniería de Software II || 1C-2025
-
-- [Clase 01](./SoftwareII.md)
+# [Ingeniería de Software II || 1C-2025](./SoftwareII.md)

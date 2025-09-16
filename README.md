@@ -6,10 +6,11 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
-- https://github.com/FernandoFH/every-programmer-should-know
-- [ ] https://github.com/FernandoFH/software-engineer-be-roadmap
-
 - [ ] [Operating Systems](./Operating_Systems/README.md)
+- [ ] [Distributed Systems](./Distributed_Systems/README.md)
+
+---
+
 - [ ] Computer Networks
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
 - [ ] System Design
@@ -18,7 +19,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
 - [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
-
 
 ---
 
@@ -183,18 +183,19 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
 
 - 18.085 | Fall 2008 | Graduate
+
   - Computational Science and Engineering I
   - https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/
   - https://www.youtube.com/playlist?list=PLF706B428FB7BD52C
 
 - Stanford CS105: Introduction to Computers | 2021 |
-    - https://web.stanford.edu/class/cs105/
-    - https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
 
--  Stanford CS109 Probability for Computer Scientists I Counting I 
-    - https://web.stanford.edu/class/cs109/
-    - https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
+  - https://web.stanford.edu/class/cs105/
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
 
+- Stanford CS109 Probability for Computer Scientists I Counting I
+  - https://web.stanford.edu/class/cs109/
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
 
 ### Computer Science
 
