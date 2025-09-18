@@ -6,6 +6,10 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
+- MIT 6.004 Computation Structures, Spring 2017
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
+
 - [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
 
@@ -71,10 +75,6 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
 - MIT 16.842 Fundamentals of Systems Engineering, Fall 2015
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx
-
-- MIT 6.004 Computation Structures, Spring 2017
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
 
 - MIT 6.172 Performance Engineering of Software Systems, Fall 2018
 
