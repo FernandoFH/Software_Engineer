@@ -13,6 +13,8 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
 - [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
 
+- [ ] [Computo Altas Prestaciones (HPC)](https://github.com/FernandoFH/ComputoAltasPrestaciones/blob/main/README.md)
+
 ---
 
 - [ ] Computer Networks
