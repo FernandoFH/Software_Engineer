@@ -8,12 +8,21 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - MIT 6.004 Computation Structures, Spring 2017
 
-https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
+
+- 6.096 | January IAP 2011 | Undergraduate | Introduction to C++
+
+  - https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/
 
 - [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
 
 - [ ] [Computo Altas Prestaciones (HPC)](https://github.com/FernandoFH/ComputoAltasPrestaciones/blob/main/README.md)
+
+- Big O Notacion
+- Refactorizacion
+- Patrones de diseño
+- Test (IA Generate)
 
 ---
 
