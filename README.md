@@ -6,6 +6,8 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
 
+- [ ] [Software Design and Architecture](./Software_Design_and_Architecture/README.md)
+
 - MIT 6.004 Computation Structures, Spring 2017
 
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
@@ -216,10 +218,6 @@ Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNz
 |      | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science)                      | HarvardX             |          |        | [CS50](./CS50)                                 |
 |      | [Computer Architecture](https://www.coursera.org/learn/comparch)                                                                     | Princeton University |          |        | [ComputerArchitecture](./ComputerArchitecture) |     |
 |      | [Clean Code - Uncle Bob ](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                       | Software Programming |          |        | [Clean Code](./CleanCode)                      |
-
-- Software Design and Architecture
-
-  - https://www.coursera.org/specializations/software-design-architecture
 
 - Guide to linux kernel development
   - https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information

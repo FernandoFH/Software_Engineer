@@ -1,17 +1,18 @@
-# Patrones de diseño By DotTech-ES 
+# Patrones de diseño By DotTech-ES
+
 - [Playlist](https://www.youtube.com/playlist?list=PLcrGLrk890EHggd_AtzoodFXnp-yXnzh4)
 
 ### Patron State
-  
-Permite que un objeto cambie su comportamineto cuando su estado interno cambia. 
 
-El Objeto parecera que cambio de clase. 
+Permite que un objeto cambie su comportamineto cuando su estado interno cambia.
 
-Proncipalmente Respeta el principio de responsobilidad y Abierto cerrado. 
+El Objeto parecera que cambio de clase.
 
-Se puede Agregar estados sin necesidad de Modificar el codigo existente. 
+Proncipalmente Respeta el principio de responsobilidad y Abierto cerrado.
 
-Cada estado se encarga de su propia logica y comportamiento 
+Se puede Agregar estados sin necesidad de Modificar el codigo existente.
+
+Cada estado se encarga de su propia logica y comportamiento
 
 ![Patron_State](./../img/PatronState.png)
 
@@ -20,24 +21,37 @@ Cada estado se encarga de su propia logica y comportamiento
 - Metodo de Fabricacion estatico
 
 ### - Factory-method
-  Nos proprciona un intefaz para la creacion de objetos el cual, sera implementado en la subclases que extiendden o implementa esta interfaz, Delegando la responsabilidad a la clase concreta 
-  
+
+Nos proprciona un intefaz para la creacion de objetos el cual, sera implementado en la subclases que extiendden o implementa esta interfaz, Delegando la responsabilidad a la clase concreta
+
 ### - Abstract Factory
+
 Proporciona un interfaz para crear familias de objetos que estan relacionadas o son dependientes entres si. sin tener que especificar las las clases concretas.
 
 ![AbstractFactory](./../img/AbstractFactory.png)
 
 ### Patron Decorador
 
-Añade responsabilidades adicionales a un objeto dinamicamente, Proporciona una alternativa flexible a la herencia para extender funcionabilidades. 
+Añade responsabilidades adicionales a un objeto dinamicamente, Proporciona una alternativa flexible a la herencia para extender funcionabilidades.
 
-Mas facil de usar de comprender y testear 
+Mas facil de usar de comprender y testear
 
-Extender el comportamineto de un objeto sin necesidad de crear una nueva subclase 
+Extender el comportamineto de un objeto sin necesidad de crear una nueva subclase
 
-Añade o elimina responsabilidades a un objeto 
+Añade o elimina responsabilidades a un objeto
 
-Las resposabilidad puede ser combinada 
+Las resposabilidad puede ser combinada
 
+---
 
+1. Creacionales
+2. Estructurales
+3. Comportamiento
 
+- Factory-method (Creacionales)
+- Strategy (Comportamiento)
+- Observer (Comportamiento)
+- Decorador ()
+- Adapter
+- Builder
+- Singeltom
