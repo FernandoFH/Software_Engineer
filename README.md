@@ -8,9 +8,9 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [Software Design and Architecture](./Software_Design_and_Architecture/README.md)
 
-- MIT 6.004 Computation Structures, Spring 2017
+- [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science](./MIT_OpenCourse/MIT-6.0002_Introduction_Computational_Thinking/README.md)
 
-  - https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2
+- [ ] [MIT 6.004 Computation Structures](./MIT_OpenCourse/MIT-6.004_Computation_Structures/README.md)
 
 - 6.096 | January IAP 2011 | Undergraduate | Introduction to C++
 
@@ -18,7 +18,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 - [ ] [Operating Systems](./Operating_Systems/README.md)
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
-
 - [ ] [Computo Altas Prestaciones (HPC)](https://github.com/FernandoFH/ComputoAltasPrestaciones/blob/main/README.md)
 
 - Big O Notacion
@@ -28,14 +27,13 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 ---
 
-- [ ] Computer Networks
-- [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos)
-- [ ] System Design
 - [ ] [Quantum Computing](https://github.com/FernandoFH/Quantum_Computing/README.md)
 - [ ] [Security Software](https://github.com/FernandoFH/Security_Software/README.md)
-
 - [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
 - [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
+
+- [ ] System Design
+- [ ] Computer Networks
 
 ---
 
@@ -66,11 +64,6 @@ FREE APIs for Your Projects🔥
 🔭NASA API
 
 ---
-
-- MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016
-
-  - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
-  - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/
 
 - MIT 6.851 Advanced Data Structures, Spring 2012
 
