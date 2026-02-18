@@ -13,7 +13,6 @@ This is a curated list of free courses from reputable universities that satisfy 
 - [ ] [MIT 6.004 Computation Structures](./MIT_OpenCourse/MIT-6.004_Computation_Structures/README.md)
 
 - 6.096 | January IAP 2011 | Undergraduate | Introduction to C++
-
   - https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/
 
 - [ ] [Operating Systems](./Operating_Systems/README.md)
@@ -66,12 +65,10 @@ FREE APIs for Your Projects🔥
 ---
 
 - MIT 6.851 Advanced Data Structures, Spring 2012
-
   - http://ocw.mit.edu/6-851S12
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 
 - MIT 6.828: Operating System Engineering
-
   - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
 
 - MIT 18.404J Theory of Computation, Fall 2020
@@ -120,21 +117,17 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 - https://www.youtube.com/playlist?list=PL0gulkXFfOwzRf1wkeg4frMRe92q4p3Y5
 
 - Mathematical Methods for Engineers I (MIT)
-
   - https://www.youtube.com/playlist?list=PL5BB4AE9361F45F9E
 
 - MIT 18.086 Mathematical Methods for Engineers II, Spring '06
-
   - https://www.youtube.com/playlist?list=PL3A13781649466805
 
 - CS364A: Algorithmic Game Theory (Fall 2013)
-
   - http://timroughgarden.org/f13/f13.html
   - https://timroughgarden.org/f13/f13.pdf
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
 - Introduction to Assembly Programming
-
   - ### Learning ARM assembly
   - https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
   - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
@@ -145,40 +138,32 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - https://www.youtube.com/watch?v=gfmRrPjnEw4
 
 - EE282: Computer Systems Architecture
-
   - https://web.stanford.edu/class/ee282/
 
 - CS349d: Cloud Computing Technology
-
   - https://web.stanford.edu/class/cs349d/
 
 - 6.042J | Fall 2010 | Undergraduate
-
   - Mathematics for Computer Science
   - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
 - 6.1810 | Fall 2023 | Undergraduate
-
   - Operating System Engineering
   - https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
 
 - 6.S096 | January IAP 2014 | Undergraduate
-
   - Effective Programming in C and C++
   - https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
 
 - 14.15J | Spring 2018 | Undergraduate
-
   - Networks
   - https://ocw.mit.edu/courses/14-15j-networks-spring-2018/
 
 - 6.875 | Spring 2005 | Graduate
-
   - Cryptography and Cryptanalysis
   - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/
 
 - 6.045J | Spring 2011 | Undergraduate
-
   - Automata, Computability, and Complexity
   - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
 
@@ -186,16 +171,12 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
   - Software Engineering Concepts
   - https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/
 
-Compiler Design https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q
-
 - 18.085 | Fall 2008 | Graduate
-
   - Computational Science and Engineering I
   - https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/
   - https://www.youtube.com/playlist?list=PLF706B428FB7BD52C
 
 - Stanford CS105: Introduction to Computers | 2021 |
-
   - https://web.stanford.edu/class/cs105/
   - https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
 
