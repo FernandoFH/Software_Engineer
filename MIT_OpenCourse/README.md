@@ -10,7 +10,12 @@
 
 - https://pdos.csail.mit.edu/6.824/index.html
 
-###
+MIT 6.824 Distributed Systems (Spring 2020)
+
+- https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+- https://pdos.csail.mit.edu/6.824/schedule.html
+
+### Principles of Computer System Design: An Introduction
 
 6.1800
 

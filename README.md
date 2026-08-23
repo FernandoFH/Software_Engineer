@@ -2,46 +2,62 @@
 
 This is a curated list of free courses from reputable universities that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
-- [ ] [Data Structures & Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
+> **Roadmap sugerido** — orden de aprendizaje recomendado, de fundamentos a temas avanzados.
 
-- [ ] [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L_Introduction_CS_Python/README.md)
+### 1. Fundamentos de programación
 
-- [ ] [Software Design and Architecture](./Software_Design_and_Architecture/README.md)
-
-- [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science](./MIT_OpenCourse/MIT-6.0002_Introduction_Computational_Thinking/README.md)
-
-- [ ] [MIT 6.004 Computation Structures](./MIT_OpenCourse/MIT-6.004_Computation_Structures/README.md)
-
-- 6.096 | January IAP 2011 | Undergraduate | Introduction to C++
+- [ ] [MIT 6.100L Introduction to CS and Programming using Python](./MIT_OpenCourse/MIT-6.100L-Introduction_CS_Python/README.md)
+- [ ] 6.096 Introduction to C++ (January IAP 2011)
   - https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/
 
+### 2. Pensamiento computacional, datos y algoritmos
+
+- [ ] [MIT 6.1200J Mathematics for Computer Science](./MIT_OpenCourse/MIT-6.1200J-Mathematics_Computer_Science/README.md)
+- [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science](./MIT_OpenCourse/MIT-6.0002-Introduction_Computational_Thinking/README.md)
+- [ ] [Data Structures & Algorithms](https://github.com/FernandoFH/Algorithms_Specialization)
+  - Big O Notación
+
+### 3. Arquitectura de computadoras
+
+- [ ] [MIT 6.004 Computation Structures](./MIT_OpenCourse/MIT-6.004-Computation_Structures/README.md)
+
+### 4. Diseño de software
+
+- [ ] [Software Design and Architecture](./Software_Design_and_Architecture/README.md)
+  - [Patrones de diseño](./Patrones_Diseno/README.md)
+  - Refactorización
+  - Test (IA Generate)
+- [ ] [Ingeniería de Software (FIUBA)](./FIUBA_IngSoftware/README.md)
+
+### 5. Sistemas
+
 - [ ] [Operating Systems](./Operating_Systems/README.md)
+- [ ] [Linux Kernel Development](./Kernel_Development/README.md)
+- [ ] Computer Networks
 - [ ] [Distributed Systems](./Distributed_Systems/README.md)
-- [ ] [Computo Altas Prestaciones (HPC)](https://github.com/FernandoFH/ComputoAltasPrestaciones/blob/main/README.md)
+- [ ] [Cómputo Altas Prestaciones (HPC)](https://github.com/FernandoFH/ComputoAltasPrestaciones/blob/main/README.md)
+- [ ] [University of Toronto — ECE (Systems Software / Parallel)](./University_of_Toronto/README.md)
 
-- Big O Notacion
-- Refactorizacion
-- Patrones de diseño
-- Test (IA Generate)
-
----
-
-- [ ] [Quantum Computing](https://github.com/FernandoFH/Quantum_Computing/README.md)
-- [ ] [Security Software](https://github.com/FernandoFH/Security_Software/README.md)
-- [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
-- [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
+### 6. Backend y diseño de sistemas
 
 - [ ] System Design
-- [ ] Computer Networks
+- [ ] [Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta/README.md)
+- [ ] [Database Management Systems](https://github.com/FernandoFH/Base_Datos/README.md)
 
----
+### 7. Ingeniería práctica / DevOps
 
-- API design
-- API Security
-- CI/CD
-- Docker/ Kubernetes
-- Caching
-- Messaging
+- [ ] API design
+- [ ] API Security
+- [ ] CI/CD
+- [ ] Docker / Kubernetes
+- [ ] Caching
+- [ ] Messaging
+
+### 8. Temas avanzados / electivas
+
+- [ ] [Compiladores (Compiler Design)](./Compilers/README.md)
+- [ ] [Quantum Computing](https://github.com/FernandoFH/Quantum_Computing/README.md)
+- [ ] [Security Software](https://github.com/FernandoFH/Security_Software/README.md)
 
 ---
 
@@ -64,139 +80,125 @@ FREE APIs for Your Projects🔥
 
 ---
 
+## 📚 Recursos adicionales por área
+
+Material complementario (cursos sueltos, playlists y notas) agrupado según las fases del roadmap de arriba.
+
+### 1. Fundamentos de programación
+
+- 6.S096 Effective Programming in C and C++ (January IAP 2014)
+  - https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
+- Stanford CS105: Introduction to Computers (2021)
+  - https://web.stanford.edu/class/cs105/
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
+- [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science) — HarvardX · repo: [CS50](./CS50)
+- C++ (playlist)
+  - https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+- Become a Six-Figure C++ Engineer
+- Become a Six-Figure Python Engineer
+
+### 2. Pensamiento computacional, datos y algoritmos
+
 - MIT 6.851 Advanced Data Structures, Spring 2012
   - http://ocw.mit.edu/6-851S12
   - https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
-
-- MIT 6.828: Operating System Engineering
-  - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
-
-- MIT 18.404J Theory of Computation, Fall 2020
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
-
-- MIT 16.842 Fundamentals of Systems Engineering, Fall 2015
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx
-
-- MIT 6.172 Performance Engineering of Software Systems, Fall 2018
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
-
-- MIT 6.824 Distributed Systems (Spring 2020)
-
-https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
-https://pdos.csail.mit.edu/6.824/schedule.html
-
-- MIT 15.S12 Blockchain and Money, Fall 2018
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
-
-- MIT 18.S096 | Fall 2015 | Topics in Mathematics of Data Science
-
-https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/pages/lecture-notes/
-
-https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
-
-- MIT 18.04 | Spring 2018 | Complex Variables with Applications
-
-https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/lecture-notes/
-
-https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/213a/course/course.pdf
-
-https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2023/MAT330_Lecture_Notes.pdf
-
-- [Stanford EE274](https://stanforddatacompressionclass.github.io/notes/contents.html)
-
-Stanford EE274: Data Compression, Theory and Applications
-
-https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
-
-- Stanford CS149 I Parallel Computing
-- https://gfxcourses.stanford.edu/cs149/fall23/
-- https://www.youtube.com/playlist?list=PL0gulkXFfOwzRf1wkeg4frMRe92q4p3Y5
-
-- Mathematical Methods for Engineers I (MIT)
-  - https://www.youtube.com/playlist?list=PL5BB4AE9361F45F9E
-
-- MIT 18.086 Mathematical Methods for Engineers II, Spring '06
-  - https://www.youtube.com/playlist?list=PL3A13781649466805
-
+- 6.042J Mathematics for Computer Science, Fall 2010
+  - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+- Stanford CS109: Probability for Computer Scientists
+  - https://web.stanford.edu/class/cs109/
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
 - CS364A: Algorithmic Game Theory (Fall 2013)
   - http://timroughgarden.org/f13/f13.html
   - https://timroughgarden.org/f13/f13.pdf
   - https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4
 
-- Introduction to Assembly Programming
-  - ### Learning ARM assembly
-  - https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
-  - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
-  - ### Practical ARM Assembly Tutorial Series
-  - https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg
-  - ### x86_64 Linux Assembly
-  - https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
-  - https://www.youtube.com/watch?v=gfmRrPjnEw4
+### 3. Arquitectura de computadoras
 
+- Introduction to Assembly Programming
+  - Learning ARM assembly: https://www.youtube.com/playlist?list=PLxeJU39M7tLEiIeeSCICx8BncUpCCnIiS
+  - https://olivestem.net/courses/introduction-to-assembly-programming-with-arm
+  - Practical ARM Assembly Tutorial Series: https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg
+  - x86_64 Linux Assembly: https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
+  - https://www.youtube.com/watch?v=gfmRrPjnEw4
 - EE282: Computer Systems Architecture
   - https://web.stanford.edu/class/ee282/
+- [Computer Architecture](https://www.coursera.org/learn/comparch) — Princeton University
 
+### 4. Diseño de software
+
+- 16.355J Software Engineering Concepts, Fall 2005
+  - https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/
+- [Clean Code - Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k) — repo: [Clean Code](./Clean_Code)
+
+### 5. Sistemas
+
+- MIT 6.828 / 6.1810 Operating System Engineering
+  - https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP
+  - https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
+- MIT 6.172 Performance Engineering of Software Systems, Fall 2018
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+- Stanford CS149: Parallel Computing
+  - https://gfxcourses.stanford.edu/cs149/fall23/
+  - https://www.youtube.com/playlist?list=PL0gulkXFfOwzRf1wkeg4frMRe92q4p3Y5
+- [MIT 6.824 Distributed Systems (Spring 2020)](./MIT_OpenCourse/README.md#distributed-systems)
+- 14.15J Networks, Spring 2018
+  - https://ocw.mit.edu/courses/14-15j-networks-spring-2018/
+- A Beginner's Guide to Linux Kernel Development (LFD103)
+  - https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information
+
+### 6. Backend y bases de datos
+
+- Relational database (RDBMS)
+  - https://www.youtube.com/playlist?list=PLNITTkCQVxeXryTQvY0JBWTyN9ynxxPH8
+- Backend Python - Become a Backend Engineer
+
+### 7. Ingeniería práctica / DevOps / Cloud
+
+- [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) — Linux Foundation
 - CS349d: Cloud Computing Technology
   - https://web.stanford.edu/class/cs349d/
 
-- 6.042J | Fall 2010 | Undergraduate
-  - Mathematics for Computer Science
-  - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+### 8. Temas avanzados / electivas
 
-- 6.1810 | Fall 2023 | Undergraduate
-  - Operating System Engineering
-  - https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
-
-- 6.S096 | January IAP 2014 | Undergraduate
-  - Effective Programming in C and C++
-  - https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/
-
-- 14.15J | Spring 2018 | Undergraduate
-  - Networks
-  - https://ocw.mit.edu/courses/14-15j-networks-spring-2018/
-
-- 6.875 | Spring 2005 | Graduate
-  - Cryptography and Cryptanalysis
-  - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/
-
-- 6.045J | Spring 2011 | Undergraduate
-  - Automata, Computability, and Complexity
+- MIT 18.404J Theory of Computation, Fall 2020
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+- 6.045J Automata, Computability, and Complexity, Spring 2011
   - https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
+- 6.875 Cryptography and Cryptanalysis, Spring 2005
+  - https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/
+- [Stanford EE274: Data Compression, Theory and Applications](https://stanforddatacompressionclass.github.io/notes/contents.html)
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
+- MIT 15.S12 Blockchain and Money, Fall 2018
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+- MIT 16.842 Fundamentals of Systems Engineering, Fall 2015
+  - https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx
+- [TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
+- [Machine Learning & Trading](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
+- [Scala](https://www.coursera.org/specializations/scala)
 
-- 16.355J | Fall 2005 | Graduate
-  - Software Engineering Concepts
-  - https://ocw.mit.edu/courses/16-355j-software-engineering-concepts-fall-2005/
+#### Matemáticas (electivas)
 
-- 18.085 | Fall 2008 | Graduate
-  - Computational Science and Engineering I
+- MIT 18.S096 Topics in Mathematics of Data Science, Fall 2015
+  - https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/pages/lecture-notes/
+  - https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf
+- MIT 18.04 Complex Variables with Applications, Spring 2018
+  - https://ocw.mit.edu/courses/18-04-complex-variables-with-applications-spring-2018/pages/lecture-notes/
+  - https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/213a/course/course.pdf
+  - https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2023/MAT330_Lecture_Notes.pdf
+- Mathematical Methods for Engineers I (MIT)
+  - https://www.youtube.com/playlist?list=PL5BB4AE9361F45F9E
+- MIT 18.086 Mathematical Methods for Engineers II, Spring '06
+  - https://www.youtube.com/playlist?list=PL3A13781649466805
+- 18.085 Computational Science and Engineering I, Fall 2008
   - https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/
   - https://www.youtube.com/playlist?list=PLF706B428FB7BD52C
+- [Ingeniería Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
 
-- Stanford CS105: Introduction to Computers | 2021 |
-  - https://web.stanford.edu/class/cs105/
-  - https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
+---
 
-- Stanford CS109 Probability for Computer Scientists I Counting I
-  - https://web.stanford.edu/class/cs109/
-  - https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
+## 🗂️ Pendientes / Otras especializaciones (fuera del core CS)
 
-### Computer Science
-
-| Date | Courses                                                                                                                              | School               | Duration | Status | Repo                                           |     |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | -------- | ------ | ---------------------------------------------- | --- |
-|      | [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git) | Linux Foundation     |          |        |                                                |
-|      | [CS50's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science)                      | HarvardX             |          |        | [CS50](./CS50)                                 |
-|      | [Computer Architecture](https://www.coursera.org/learn/comparch)                                                                     | Princeton University |          |        | [ComputerArchitecture](./ComputerArchitecture) |     |
-|      | [Clean Code - Uncle Bob ](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)                       | Software Programming |          |        | [Clean Code](./CleanCode)                      |
-
-- Guide to linux kernel development
-  - https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information
-
-### Pendient
+### Pendiente
 
 | Area         | Date | Courses                                                                                                                  | School                 | Duration | Status | Repo |
 | ------------ | ---- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | -------- | ------ | ---- |
@@ -213,32 +215,10 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
 | Game Dev     |      | [Unity Certified Programmer](https://www.coursera.org/specializations/unity-certified-programmer)                        |                        |          |        |      |
 | SRE          |      | [Programming with Google Go](https://www.coursera.org/specializations/google-golang)                                     |                        |          |        |      |
 
-- [Scala](https://www.coursera.org/specializations/scala)
+### Embedded / otros
 
 | Area         | Courses                                                                                                                     |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | Embedded Dev | [Development of Secure Embedded Systems Specialization](https://www.coursera.org/specializations/embedded-systems-security) |
 
-| Areas |
-| ----- |
-
-[Embedded Dev](https://github.com/FernandoFH/Embedded.Systems.Playground)
-[TensorFlow Specialization](https://github.com/FernandoFH/TensorFlow_Specialization)
-[Ingenieria Matemáticas](https://github.com/FernandoFH/Ingenieria_Math)
-[Machine Learning & Trading ](https://github.com/FernandoFH/Machine-Learning-Trading-Specialization)
-
-- C++
-
-https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
-
-- Relational database (RDBMS)
-
-https://www.youtube.com/playlist?list=PLNITTkCQVxeXryTQvY0JBWTyN9ynxxPH8
-
-- Stanford CS109 Probability for Computer Scientists
-
-https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg
-
-- Become a Six-Figure C++ Engineer
-- Become a Six-Figure Python Engineer
-- Backend Python - Become a Backend Engineer
+- [Embedded Dev — Systems Playground](https://github.com/FernandoFH/Embedded.Systems.Playground)
